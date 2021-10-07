@@ -1,0 +1,10 @@
+{
+  "name": "gql_sse_link",
+  "version": "1.0.0",
+  "dependencies": {
+    "graphql": "^15.6.1",
+    "graphql-sse": "^1.0.4"
+  },
+  "main": "index.js",
+  "type": "module"
+}
